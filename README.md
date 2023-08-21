@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p align="left">
+<a href="https://github.com/LutfiNurRohmah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LutfiNurRohmah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LutfiNurRohmah&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **LutfiNurRohmah/LutfiNurRohmah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
